@@ -6,3 +6,12 @@ merely capable to induce public attention and not directly persuading, can obtai
 distribution of opinions. We analyze the results under a wide range of starting conditions and derive implications
 both for prediction of social contagion and for normative statements directed to "influencing agents" or
 to those who wish to oppose them.
+
+## Details
+- `main.ipynb`: The models used and their description.
+
+- `sim.ipynb`: Running the ABM simulations.
+    
+- `analysis_model_v1` and `analysis_model_v2`: Analyzing the results.
+
+- `ideasDiffusionABM_paper.pdf`: Full detailed report.
